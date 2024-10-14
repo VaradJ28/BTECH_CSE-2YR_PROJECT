@@ -51,8 +51,6 @@ bcrypt.js (for password hashing)
 
 Contributors:
 MR.varad joshi,
-Miss.Ananya Kayal,
-Mr.John Prakash,
 Mr.Ravi Chandra.
 
 License:
