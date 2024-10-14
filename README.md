@@ -1,4 +1,4 @@
-# KLH-BTECH_CSE-2YR_MERN-PROJECT
+# BTECH_CSE-2YR_MERN-PROJECT
 In the contemporary landscape of higher education, the efficient management of administrative and  academic processes is imperative for the effective functioning of educational institutions. 
 
 The College Management System is a web-based application developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This system aims to streamline various administrative and academic tasks within a college or educational institution.
